@@ -19,7 +19,7 @@ Thanks to Use
 - Mr,BaBlU
 For making me the holder of this script
 ```
-# ✭ BJ-Track
+# ✭ tik Tok information
 ### Made With ❤️ By Mr,BaBlU
 ```
 Author:
@@ -37,8 +37,7 @@ git clone https://github.com/BJ-Trucks/Tik-Tok-Info.git
 cd $HOME
 ls
 cd Tik-Tok-Info
-
-python3 BJ_Track.py
+python TIK_TOK_INFO.py
 ```
 
 # BJ-Track
