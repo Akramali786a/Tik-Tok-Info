@@ -33,12 +33,11 @@ pkg install python3 -y
 pkg install git -y
 pip install requests
 pip install bs4
-git clone https://github.com/BJ-Trucks/BJ-Track.git
+git clone https://github.com/BJ-Trucks/Tik-Tok-Info.git
 cd $HOME
 ls
-cd BJ-Track
-ls
-pip3 install -r requirements.txt
+cd Tik-Tok-Info
+
 python3 BJ_Track.py
 ```
 
