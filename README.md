@@ -13,17 +13,17 @@ Welcome
   <summary><b>More information</b></summary>
 
 #### ★ Social Accounts ★
-<a href="https://t.me/Mr_Bablu07"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a>
+<a href="https://t.me/Akramali786a"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a>
 ```
 Thanks to Use
-- Mr,BaBlU
+- Muhammad AKRAM
 For making me the holder of this script
 ```
 # ✭ tik Tok information
-### Made With ❤️ By Mr,BaBlU
+### Made With ❤️ By Muhammad AKRAM
 ```
 Author:
-- Mr,BaBlU
+- Muhammad AKRAM
 ```
 ### ⇨  Install Script  Termux
 ```python
@@ -40,7 +40,7 @@ cd Tik-Tok-Info
 python TIK_TOK_INFO.py
 ```
 
-# BJ-Track
+# @Akramali786a
 
 ```- Working tik Tok info tool for termux```
 >
